@@ -1,5 +1,5 @@
 module.exports = {
-	publicPath: process.env.NODE_ENV == 'development' ? '/' : '/resume/',
+	publicPath: process.env.NODE_ENV == 'development' ? '/' : '/',
 	css: { sourceMap: process.env.NODE_ENV == 'development' },
 	chainWebpack(config) {
 		config.devtool(process.env.NODE_ENV == 'development' ? 'eval-source-map' : 'source-map')

@@ -56,7 +56,7 @@ import { Vue, Component } from 'vue-property-decorator'
 export default class AppBar extends Vue {
 	store = store
 	get pdfUrl() {
-		return `https://roblav96.github.io/resume/${document.title}.pdf`
+		return `https://roblav96.github.io/${document.title}.pdf`
 	}
 }
 </script>

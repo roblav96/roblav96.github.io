@@ -2,7 +2,7 @@ Robert Laverty
 Full-Stack Software Engineer
 New York City - Open to in office commuting
 
-Resume: https://roblav96.github.io/resume/
+Resume: https://roblav96.github.io/
 
 Expert: TypeScript + Node.js + React.js + AWS
 Intermediate: MySQL + Python
