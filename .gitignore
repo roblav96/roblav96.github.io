@@ -1,0 +1,10 @@
+dist
+logs
+node_modules
+
+*.log*
+.*cache*
+.*env*
+.*local*
+
+!.envrc
